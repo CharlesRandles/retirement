@@ -17,7 +17,7 @@ class Retirement():
         
 def run_model(model, growth_fn):
     wealth=[]
-    MAX_YEAR=50 # never run for more than this long
+    MAX_YEAR=TARGET_YEARS # never run for more than this long
     capital = model.initial_capital
     year = 0
     while (capital > model.income) and year < MAX_YEAR:
