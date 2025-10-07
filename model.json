@@ -1,7 +1,7 @@
 {
     "target_years": 35,
     "cpi": 3.5,
-    "capital": 2700000,
+    "capital": 2400000,
     "cash_rate":3.5,
     "balance": 0.7,
     "stock_history_file": "asx_history.txt",
