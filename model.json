@@ -1,0 +1,15 @@
+{
+    "target_years": 35,
+    "cpi": 3.5,
+    "capital": 27
+    00000,
+    "cash_rate":3.5,
+    "balance": 0.7,
+    "stock_history_file": "asx_history.txt",
+    "num_runs" : 10000,
+    "model" : [
+	[120000, 10],
+	[100000, 10],
+	[80000, 5],
+	[120000, 10]]
+}
